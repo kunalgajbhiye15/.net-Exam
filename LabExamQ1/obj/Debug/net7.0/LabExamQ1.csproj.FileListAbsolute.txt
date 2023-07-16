@@ -1,0 +1,15 @@
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\bin\Debug\net7.0\LabExamQ1.exe
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\bin\Debug\net7.0\LabExamQ1.deps.json
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\bin\Debug\net7.0\LabExamQ1.runtimeconfig.json
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\bin\Debug\net7.0\LabExamQ1.dll
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\bin\Debug\net7.0\LabExamQ1.pdb
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.csproj.AssemblyReference.cache
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.AssemblyInfoInputs.cache
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.AssemblyInfo.cs
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.csproj.CoreCompileInputs.cache
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.dll
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\refint\LabExamQ1.dll
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.pdb
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\LabExamQ1.genruntimeconfig.cache
+C:\DAC material\.Net\KTJune23\MyWebsites\LabExamQ1\obj\Debug\net7.0\ref\LabExamQ1.dll
